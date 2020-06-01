@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 2015-12-25 21:20:59
+#
+$CMP KTIR0711S
+D TLP291, SOP4, DC Optocoupler, Vce 80V, CTR 50-100%
+K NPN DC Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/TLP291_en_datasheet_120426.pdf
+$ENDCMP
+#
+#End Doc Library

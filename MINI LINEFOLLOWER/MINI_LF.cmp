@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by PcbNew date = 2015-12-25 22:28:07
+
+BeginCmp
+TimeStamp = /5674D155;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56758206;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56758689;
+Reference = D1;
+ValeurCmp = D_Schottky;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /56758B65;
+Reference = D2;
+ValeurCmp = D_Schottky;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DA786;
+Reference = IC1;
+ValeurCmp = KTIR0711S;
+IdModule  = sot143r;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DA7AF;
+Reference = IC2;
+ValeurCmp = KTIR0711S;
+IdModule  = KTIR0711S;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DA7B5;
+Reference = IC3;
+ValeurCmp = KTIR0711S;
+IdModule  = KTIR0711S;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674F8D5;
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674FBF8;
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674FD40;
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DAC34;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DAC41;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = HOLE_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DAC47;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = HOLE_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /567DAC57;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = HOLE_2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674DE2E;
+Reference = Q1;
+ValeurCmp = Q_NMOS_SO8;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674DFA2;
+Reference = Q2;
+ValeurCmp = Q_NMOS_SO8;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674CA8B;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674A7AB;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /567D89A3;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /567D8996;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674E3E6;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674E575;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5674A4CA;
+Reference = U4;
+ValeurCmp = 7420;
+IdModule  = DIP-14__300_ELL;
+EndCmp
+
+EndListe
